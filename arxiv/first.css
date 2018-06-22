@@ -1,0 +1,33 @@
+div {
+	margin: auto;
+	border: 20px solid #bdc3c7;
+	padding: 20px;
+	max-width: 700px;
+	width: 50%;
+	margin: 20px auto 20px auto;
+}
+.date {
+	text-transform: uppercase;
+	color: #3498db;
+	letter-spacing: 2px;
+}
+.intro {
+	border-left: 5px solid #bdc3c7;
+	padding-left: 8px;
+}
+h3 {
+	color: #2c3e50;
+	font-family: Source+Sans+Pro;
+	font-weight: 700;
+	font-size: 1.2em;
+}
+p{
+	font-size: 0.5em;
+	line-height: 1.3em;
+}
+hr{
+    border: 0;
+    height: 2px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    margin: 10px;
+}
